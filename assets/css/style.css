@@ -473,7 +473,7 @@ header .navbar ul li a:hover {
 }
 .publication .qoute {
   font-size: 1.5rem;
-  text-align: right;
+  text-align: left;
   font-family: "Nunito", sans-serif;
   font-weight: 600;
   margin-top: 0.5rem;
