@@ -461,7 +461,7 @@ header .navbar ul li a:hover {
 
 /* publication section starts */
 .publication {
-  background: #e5ecfb;
+  background: #00002c;
   min-height: 80vh;
 }
 .publication .qoute {
@@ -535,7 +535,7 @@ header .navbar ul li a:hover {
   font-weight: 700;
 }
 
-/* education media queries starts*/
+/* publication media queries starts*/
 @media screen and (max-width: 600px) {
   .publication .box-container .box {
     flex-direction: column;
