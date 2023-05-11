@@ -464,6 +464,13 @@ header .navbar ul li a:hover {
   background: #00002c;
   min-height: 80vh;
 }
+.publication h1 {
+  color: #fff;
+  padding: 1rem;
+}
+.publication .heading span {
+  color: rgb(255, 230, 0);
+}
 .publication .qoute {
   font-size: 1.5rem;
   text-align: center;
